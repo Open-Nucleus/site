@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Open Nucleus",
   description:
-    "An offline-first electronic health record for places where connectivity is zero.",
+    "An open-source ecosystem of tools for healthcare in zero-connectivity environments.",
 };
 
 export default function RootLayout({
