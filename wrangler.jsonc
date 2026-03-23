@@ -5,8 +5,5 @@
   "observability": {
     "enabled": true
   },
-  "compatibility_flags": ["nodejs_compat"],
-  "assets": {
-    "binding": "ASSETS"
-  }
+  "compatibility_flags": ["nodejs_compat"]
 }
